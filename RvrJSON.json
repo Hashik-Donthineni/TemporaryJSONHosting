@@ -539,13 +539,13 @@
              "att" : "55/65"},
          {   "code":"358",
              "att" : "55/65"},
-         { "code" : "tpc",
+         { "code" : "TPC",
             "att":"500"
          }, 
-         { "code" : "tcc",
+         { "code" : "TCC",
             "att":"800"
          },
-         { "code" : "percentage",
+         { "code" : "Percentage",
             "att":"75%"
          }
         ]
