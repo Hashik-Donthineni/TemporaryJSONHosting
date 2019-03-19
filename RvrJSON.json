@@ -6,10 +6,10 @@
              "grade":"A"
             },
             {"title":"Sub2",
-             "grade":"A"
+             "grade":"S"
             },
             {"title":"Sub3",
-             "grade":"A"
+             "grade":"B"
             },
             {"title":"Sub4",
              "grade":"A"
@@ -24,17 +24,17 @@
              "grade":"A"
             },
             {"title":"Lab2",
-             "grade":"A"
+             "grade":"C"
             },
             {"title":"Lab3",
              "grade":"A"
             },
             {"title":"SGPA",
-             "grade":"A"
+             "grade":"8.5"
             },
             {
              "title":"CGPA",
-             "grade":"A"
+             "grade":"8.7"
             }
          ]
         },
@@ -44,10 +44,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -56,23 +56,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -82,10 +82,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -94,23 +94,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -120,10 +120,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -132,23 +132,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -158,10 +158,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -170,23 +170,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -196,10 +196,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -208,23 +208,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -234,10 +234,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -246,23 +246,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         },
@@ -272,10 +272,10 @@
                 "grade":"A"
                },
                {"title":"Sub2",
-                "grade":"A"
+                "grade":"S"
                },
                {"title":"Sub3",
-                "grade":"A"
+                "grade":"B"
                },
                {"title":"Sub4",
                 "grade":"A"
@@ -284,23 +284,23 @@
                 "grade":"A"
                },
                {"title":"Sub6",
-                "grade":"A"
+                "grade":"F"
                },
                {"title":"Lab1",
                 "grade":"A"
                },
                {"title":"Lab2",
-                "grade":"A"
+                "grade":"C"
                },
                {"title":"Lab3",
                 "grade":"A"
                },
                {"title":"SGPA",
-                "grade":"A"
+                "grade":"8.5"
                },
                {
                 "title":"CGPA",
-                "grade":"A"
+                "grade":"8.7"
                }
          ]
         }
