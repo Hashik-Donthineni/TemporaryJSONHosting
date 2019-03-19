@@ -308,7 +308,7 @@
 
     "internalmarks":[
         {
-            "title":"AssignmentTest-I(12M)",
+            "title":"AssignmentTest-I (12M)",
             "subjects":[
                 {"code":"307",
                  "marks":"9 (5,4)"
@@ -331,7 +331,7 @@
             ]
         },
         {
-            "title":"Sesstional Test-I(18M)",
+            "title":"Sesstional Test-I (18M)",
             "subjects":[
                 {"code":"307",
                     "marks":"9 (5,4)"
@@ -354,7 +354,7 @@
             ]
         },
         {
-            "title":"AssignmentTest-II(12M)",
+            "title":"AssignmentTest-II (12M)",
             "subjects":[
                 {"code":"307",
                     "marks":"9 (5,4)"
@@ -377,7 +377,7 @@
             ]
         },
         {
-            "title":"Sessional Test-II(12M)",
+            "title":"Sessional Test-II (12M)",
             "subjects":[
                 {"code":"307",
                     "marks":"9 (5,4)"
@@ -400,7 +400,7 @@
             ]
         },
         {
-            "title":"Quiz-I (5M",
+            "title":"Quiz-I (5M)",
             "subjects":[
                 {"code":"307",
                     "marks":"9 (5,4)"
