@@ -5,271 +5,303 @@
             {"title":"Sub1",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Sub2",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Sub3",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Sub4",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Sub5",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Sub6",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Lab1",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Lab2",
              "grade":"A"
             },
-            {"title":"Sub1",
+            {"title":"Lab3",
              "grade":"A"
             },
-            {"title":"Sub1",
-             "grade":"A"
-            }
-         ]
-        },
-        {"title":"I BTech I Sem",
-         "data":[
-            {"title":"Sub1",
+            {"title":"SGPA",
              "grade":"A"
             },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
+            {
+             "title":"CGPA",
              "grade":"A"
             }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"I BTech II Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"II BTech I Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"II BTech II Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"III BTech I Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"III BTech II Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         },
-        {"title":"I BTech I Sem",
+        {"title":"IV BTech I Sem",
          "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
+         ]
+        },
+        {"title":"IV BTech II Sem",
+         "data":[
             {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            },
-            {"title":"Sub1",
-             "grade":"A"
-            }
+                "grade":"A"
+               },
+               {"title":"Sub2",
+                "grade":"A"
+               },
+               {"title":"Sub3",
+                "grade":"A"
+               },
+               {"title":"Sub4",
+                "grade":"A"
+               },
+               {"title":"Sub5",
+                "grade":"A"
+               },
+               {"title":"Sub6",
+                "grade":"A"
+               },
+               {"title":"Lab1",
+                "grade":"A"
+               },
+               {"title":"Lab2",
+                "grade":"A"
+               },
+               {"title":"Lab3",
+                "grade":"A"
+               },
+               {"title":"SGPA",
+                "grade":"A"
+               },
+               {
+                "title":"CGPA",
+                "grade":"A"
+               }
          ]
         }
     ],
