@@ -308,141 +308,141 @@
 
     "internalmarks":[
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"AssignmentTest-I(12M)",
             "subjects":[
                 {"code":"307",
-                 "marks":""
+                 "marks":"9 (5,4)"
                 },
-                {"code":"307",
-                 "marks":""
+                {"code":"308",
+                 "marks":"Not updated"
                 },
-                {"code":"307",
-                 "marks":""
+                {"code":"309",
+                 "marks":"Not updated"
                 },
-                {"code":"307",
-                 "marks":""
+                {"code":"310",
+                 "marks":"10 (5,5)"
                 },
-                {"code":"307",
-                 "marks":""
+                {"code":"311",
+                 "marks":"Not updated"
                 },
-                {"code":"307",
-                 "marks":""
+                {"code":"312",
+                 "marks":"Not updated"
                 }
             ]
         },
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"Sesstional Test-I(18M)",
             "subjects":[
                 {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                }
+                    "marks":"9 (5,4)"
+                   },
+                   {"code":"308",
+                    "marks":"Not updated"
+                   },
+                   {"code":"309",
+                    "marks":"Not updated"
+                   },
+                   {"code":"310",
+                    "marks":"10 (5,5)"
+                   },
+                   {"code":"311",
+                    "marks":"Not updated"
+                   },
+                   {"code":"312",
+                    "marks":"Not updated"
+                   }
             ]
         },
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"AssignmentTest-II(12M)",
             "subjects":[
                 {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                }
+                    "marks":"9 (5,4)"
+                   },
+                   {"code":"308",
+                    "marks":"Not updated"
+                   },
+                   {"code":"309",
+                    "marks":"Not updated"
+                   },
+                   {"code":"310",
+                    "marks":"10 (5,5)"
+                   },
+                   {"code":"311",
+                    "marks":"Not updated"
+                   },
+                   {"code":"312",
+                    "marks":"Not updated"
+                   }
             ]
         },
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"Sessional Test-II(12M)",
             "subjects":[
                 {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                }
+                    "marks":"9 (5,4)"
+                   },
+                   {"code":"308",
+                    "marks":"Not updated"
+                   },
+                   {"code":"309",
+                    "marks":"Not updated"
+                   },
+                   {"code":"310",
+                    "marks":"10 (5,5)"
+                   },
+                   {"code":"311",
+                    "marks":"Not updated"
+                   },
+                   {"code":"312",
+                    "marks":"Not updated"
+                   }
             ]
         },
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"Quiz-I (5M",
             "subjects":[
                 {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                }
+                    "marks":"9 (5,4)"
+                   },
+                   {"code":"308",
+                    "marks":"Not updated"
+                   },
+                   {"code":"309",
+                    "marks":"Not updated"
+                   },
+                   {"code":"310",
+                    "marks":"10 (5,5)"
+                   },
+                   {"code":"311",
+                    "marks":"Not updated"
+                   },
+                   {"code":"312",
+                    "marks":"Not updated"
+                   }
             ]
         },
         {
-            "title":"AssignmentTest-1(12M)",
+            "title":"Quiz-II (5M)",
             "subjects":[
                 {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                },
-                {"code":"307",
-                 "marks":""
-                }
+                    "marks":"9 (5,4)"
+                   },
+                   {"code":"308",
+                    "marks":"Not updated"
+                   },
+                   {"code":"309",
+                    "marks":"Not updated"
+                   },
+                   {"code":"310",
+                    "marks":"10 (5,5)"
+                   },
+                   {"code":"311",
+                    "marks":"Not updated"
+                   },
+                   {"code":"312",
+                    "marks":"Not updated"
+                   }
             ]
         }
     ],
