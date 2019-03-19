@@ -483,6 +483,8 @@
     ],
     "user":{
         "number":"Y16IT830",
+        "cgpa": "8.5",
+        "rank": "87",
         "attendance":[
          {   "code":"307",
              "att" : "55/65"},
