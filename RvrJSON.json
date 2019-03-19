@@ -1,5 +1,5 @@
 {
-    "time":"Sun 05 2018, 12:55PM",
+    "time":"Sun 05 2018, 12:55 PM",
     "semester":[
         {"title":"I BTech I Sem",
          "data":[
@@ -518,7 +518,7 @@
         "number":"Y16IT830",
         "cgpa": "8.5",
         "rank": "87",
-        "attendance":[
+        "overview":[
          {   "code":"307",
              "att" : "55/65"},
          {   "code":"308",
